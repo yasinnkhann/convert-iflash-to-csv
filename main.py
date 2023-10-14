@@ -21,7 +21,6 @@ def convert_iflash_txt_to_csv(input_file_path: str, output_file_path: str):
             text, translation = lines
             data.append((text.strip(), translation.strip()))
 
-    print(data)
     save_to_csv(data, output_file_path)
     print(f"Conversion complete. Output CSV file: {output_file_path}")
 
@@ -45,5 +44,5 @@ def convert_iflash_docx_to_csv(input_file_path: str, output_file_path: str):
 
 
 if __name__ == "__main__":
-    # convert_iflash_docx_to_csv("iflash-input.docx", "iflash-output.csv")
-    convert_iflash_txt_to_csv("iflash-input.txt", "iflash-output.csv")
+    convert_iflash_docx_to_csv("iflash-input.docx", "iflash-output.csv")
+    # convert_iflash_txt_to_csv("iflash-input.txt", "iflash-output.csv")
