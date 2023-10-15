@@ -45,14 +45,18 @@ def get_google_translate_csv_or_excel_data(file_path: str):
     return anki_csv_or_excel_data
 
 
-def find_new_cards(anki_deck_file_path, anki_csv_or_excel_file_path):
+def add_new_cards(anki_deck_file_path, google_translate_csv_or_excel_file_path):
+    cards_to_write = []
     anki_deck_data = get_anki_deck_data(anki_deck_file_path)
     anki_csv_or_excel_data = get_google_translate_csv_or_excel_data(
-        anki_csv_or_excel_file_path
+        google_translate_csv_or_excel_file_path
     )
     for anki_csv_or_excel_words in anki_csv_or_excel_data:
         if anki_csv_or_excel_words not in anki_deck_data:
             print(anki_csv_or_excel_words)
+            cards_to_write.append(anki_csv_or_excel_words)
+
+    save_to_csv(cards_to_write, "newly-added-portuguese-cards.csv")
 
 
 def convert_iflash_txt_to_csv(input_file_path: str, output_file_path: str):
@@ -90,7 +94,7 @@ def convert_iflash_docx_to_csv(input_file_path: str, output_file_path: str):
 
 
 if __name__ == "__main__":
-    find_new_cards(
+    add_new_cards(
         "anki-portuguese-deck.txt", "Saved translations - Portuguese - English.csv"
     )
     # convert_iflash_docx_to_csv("iflash-input.docx", "iflash-output.csv")
