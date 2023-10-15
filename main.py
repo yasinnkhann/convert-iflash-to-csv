@@ -10,10 +10,10 @@ def save_to_csv(data: list[tuple[str]], output_file_path: str):
         csv_writer.writerows(data)
 
 
-def get_anki_deck_data(input_file_path: str):
+def get_anki_deck_data(file_path: str):
     anki_data = []
 
-    with open(input_file_path, "r", encoding="utf-8") as input_file:
+    with open(file_path, "r", encoding="utf-8") as input_file:
         lines = input_file.readlines()
         for line in lines:
             word1, word2 = line.strip().split("\t")
@@ -28,7 +28,7 @@ def get_anki_deck_data(input_file_path: str):
     return anki_data
 
 
-def get_anki_csv_or_excel_data(file_path: str):
+def get_google_translate_csv_or_excel_data(file_path: str):
     anki_csv_or_excel_data = []
     df = None
 
@@ -38,12 +38,21 @@ def get_anki_csv_or_excel_data(file_path: str):
         df = pd.read_excel(file_path)
 
     for index, row in df.iterrows():
-        column_c = df.columns[2]  # Adjust column indices as needed
-        column_d = df.columns[3]  # Adjust column indices as needed
-        anki_csv_or_excel_data.append((row[column_c], row[column_d]))
+        column_c = df.columns[2]
+        column_d = df.columns[3]
+        anki_csv_or_excel_data.append((row[column_d], row[column_c]))
 
-    print(anki_csv_or_excel_data)
     return anki_csv_or_excel_data
+
+
+def find_new_cards(anki_deck_file_path, anki_csv_or_excel_file_path):
+    anki_deck_data = get_anki_deck_data(anki_deck_file_path)
+    anki_csv_or_excel_data = get_google_translate_csv_or_excel_data(
+        anki_csv_or_excel_file_path
+    )
+    for anki_csv_or_excel_words in anki_csv_or_excel_data:
+        if anki_csv_or_excel_words not in anki_deck_data:
+            print(anki_csv_or_excel_words)
 
 
 def convert_iflash_txt_to_csv(input_file_path: str, output_file_path: str):
@@ -81,7 +90,8 @@ def convert_iflash_docx_to_csv(input_file_path: str, output_file_path: str):
 
 
 if __name__ == "__main__":
-    pass
-    get_anki_csv_or_excel_data("Saved translations - Portuguese - English.csv")
+    find_new_cards(
+        "anki-portuguese-deck.txt", "Saved translations - Portuguese - English.csv"
+    )
     # convert_iflash_docx_to_csv("iflash-input.docx", "iflash-output.csv")
     # convert_iflash_txt_to_csv("iflash-input.txt", "iflash-output.csv")
