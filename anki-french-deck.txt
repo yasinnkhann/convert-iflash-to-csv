@@ -1,7 +1,7 @@
 dirty things (sex)	trucs salaces
 thus	a ainsi
 open air	a ciel ouvert
-with regard to	"a l&#x27;égard de"
+with regard to	a l&#x27;égard de
 in my defense	a ma décharge
 to the extent that	a tel point que
 as you wish	a votre guise
@@ -136,7 +136,7 @@ back to work!	au boulot!
 at the end of	au bout de
 at the end of the line	au bout du fil
 chillin/the audacity!	au calme
-in case you forgot	"au cas tu l&#x27;avais oublié"
+in case you forgot	au cas tu l&#x27;avais oublié
 during	au cours de
 over the years	au cours des ans
 Beyond	au delà de
@@ -180,8 +180,8 @@ to look healthy	avoir bonne mine
 to have abs	avoir des abdos/avoir un six pack (canada)
 to have fun	avoir du fun (canada)
 to be lucky	avoir du pot
-to be used to	"avoir l&#x27;habitude"
-to feel like	"avoir l&#x27;impression de"
+to be used to	avoir l&#x27;habitude
+to feel like	avoir l&#x27;impression de
 to have luck	avoir la baraka
 I have a bad cold	avoir la crève
 to be very hungry	avoir la dalle
@@ -190,18 +190,18 @@ to be knowledgeable of plants	avoir la main verte
 to be pissed off	avoir le seume
 to have a headache	avoir mal au crâne ?
 to be unable to speak	avoir un chat dans la gorge
-to fall in love easily	"avoir un coeur d&#x27;artichaut"
+to fall in love easily	avoir un coeur d&#x27;artichaut
 to be slightly hungry	avoir un petit creux
 to focus	axer
 breathtaking	à couper le souffle
 to go (ordering)	à emporter
-with regard to	"à l&#x27;égard de"
+with regard to	à l&#x27;égard de
 nothing fancy / sans chi chi	à la bonne franquette
 mass produced	à la chaîne
 instead of	à la place de
-looking for a job	"à la recherche d&#x27;un emploi"
+looking for a job	à la recherche d&#x27;un emploi
 in the evening	à la veillée
-"to it&#x27;s own right"	à part entiere
+"to it&#x27;s own right	à part entier
 from	à partir de
 from now on	à partir de cet instant
 from now on	à partir de maintenant
@@ -286,29 +286,29 @@ raw	brut
 noisy	bruyant
 burning	brûlure
 to stumble, kill	buter
-from then on that	"c&#x27;est ainsi que"
-"it&#x27;s that bad, it&#x27;s to that point"	"c&#x27;est à ce point"
-"it&#x27;s a close one/sketchy"	"c&#x27;est chaud"
-"c&#x27;est bien"	"c&#x27;est correc (canada)"
-"it&#x27;s stupid"	"c&#x27;est débile"
-"it&#x27;s fire/fuego"	"c&#x27;est du lourd"
-"it&#x27;s great"	"c&#x27;est écœurant (canada)"
-it's greasy	"c&#x27;est gras/c&#x27;est cochon (canada)"
-"it&#x27;s a good deal"	"c&#x27;est intéressant"
-"it&#x27;s the end of the world"	"c&#x27;est la fin des haricots"
-"it&#x27;s the least of things"	"c&#x27;est la moindre des choses"
-"it&#x27;s kind of..."	"c&#x27;est limite..."
-"it&#x27;s my thing"	"c&#x27;est ma came"
-"it&#x27;s not the best"	"c&#x27;est pas top"
-"it&#x27;s the exact year"	"c&#x27;est pile l&#x27;année"
-what the heck	"c&#x27;est quoi ce bordel"
-"it&#x27;s tight"	"c&#x27;est serré"
-"it&#x27;s a mess"	"c&#x27;est un bordel"
-he's rotten	"c&#x27;est un pourri"
-she a hottie	"c&#x27;est une bombe/frappe"
-"it&#x27;s bullshit"	"c&#x27;est une connerie"
-it was fire/lit	"c&#x27;était le feu"
-"I don&#x27;t mind eating it"	ca me gêne pas de le manger
+from then on that	c&#x27;est ainsi que
+"it&#x27;s that bad, it&#x27;s to that point	"c&#x27;est à ce point
+"it&#x27;s a close one/sketchy	"c&#x27;est chaud
+"c&#x27;est bien	"c&#x27;est correc (canada)
+"it&#x27;s stupid	"c&#x27;est débile
+"it&#x27;s fire/fuego	"c&#x27;est du lourd
+"it&#x27;s great	"c&#x27;est écœurant (canada)
+it's greasy	c&#x27;est gras/c&#x27;est cochon (canada)
+"it&#x27;s a good deal	"c&#x27;est intéressant
+"it&#x27;s the end of the world	"c&#x27;est la fin des haricots
+"it&#x27;s the least of things	"c&#x27;est la moindre des choses
+"it&#x27;s kind of...	"c&#x27;est limite...
+"it&#x27;s my thing	"c&#x27;est ma came
+"it&#x27;s not the best	"c&#x27;est pas top
+"it&#x27;s the exact year	"c&#x27;est pile l&#x27;année
+what the heck	c&#x27;est quoi ce bordel
+"it&#x27;s tight	"c&#x27;est serré
+"it&#x27;s a mess	"c&#x27;est un bordel
+he's rotten	c&#x27;est un pourri
+she a hottie	c&#x27;est une bombe/frappe
+"it&#x27;s bullshit	"c&#x27;est une connerie
+it was fire/lit	c&#x27;était le feu
+"I don&#x27;t mind eating it	ca me gêne pas de le mange
 padlock	cadenas
 to give someone attention	calculer
 pun	calembour
@@ -322,7 +322,7 @@ pen cap	le capuchon
 tile	carreau
 to trick/swindle	carroter
 yellow card	carton jaune
-ink cartridge	"cartouche d&#x27;encre"
+ink cartridge	cartouche d&#x27;encre
 get lost	casse-toi
 to break	casser
 wine shop	caviste
@@ -335,14 +335,14 @@ cents	centimes
 to center	centrer
 to identify	cerner
 to ascertain	cerner
-Some of you	"certains d&#x27;entre vous"
+Some of you	certains d&#x27;entre vous
 certainly, of course (super formal)	certes
 to give up your seat	céder sa place
-homeboy, you gossiped alot	"chacal t&#x27;as bien kouma"
+homeboy, you gossiped alot	chacal t&#x27;as bien kouma
 warm	chaleureux
 blowtorch	chalumeau
 candle	chandelle
-"to change one&#x27;s mind"	"changer d&#x27;avis"
+"to change one&#x27;s mind	"changer d&#x27;avis
 sick!	chanmé
 to sing without knowing the lyrics	chanter en yaourt
 giberish	charabias
@@ -357,7 +357,7 @@ at my place	chez ouam (chez moi)
 goats	chèvres
 I do not know	ché ap (je sais pas)
 to shit	chier
-revenue	"chiffre d&#x27;affaire"
+revenue	chiffre d&#x27;affaire
 to put a number on	chiffrer
 sissy	chochotte
 to catch (slang)	choper
@@ -475,36 +475,36 @@ corny	cucul
 leather	cuir
 to cook/bake	cuire
 cynical	cynique
-"that&#x27;s hot (slang)"	"ç&#x27;est chaud ça"
-"it&#x27;s cold af"	ça caille
-"There&#x27;s nothing complicated to it"	ça casse trois pattes à un canard
+"that&#x27;s hot (slang)	"ç&#x27;est chaud ça
+"it&#x27;s cold af	ça caill
+"There&#x27;s nothing complicated to it	ça casse trois pattes à un canar
 that works (slang)	ça colle
 it attracts	ça draine
-"how&#x27;s it going?"	ça gaze?
-it didnt work for me	"ça m&#x27;a pas réussi"
-that seemed to me	"ça m&#x27;a semblé"
-it slipped my mind	"ça m&#x27;est sorti de la tête"
+"how&#x27;s it going?	ça gaze
+it didnt work for me	ça m&#x27;a pas réussi
+that seemed to me	ça m&#x27;a semblé
+it slipped my mind	ça m&#x27;est sorti de la tête
 that gets me fired up	ça me crinque
 it makes me feel good	ça me fait du bien
 that triggers me	ça me trigger
 it suits me	ça me va
 never mind	ça ne fait rien
-"it&#x27;s up to you"	"ça ne tient qu&#x27;a vous"
-"it doesn&#x27;t look good but it&#x27;s good"	ça paye pas de mine
+"it&#x27;s up to you	"ça ne tient qu&#x27;a vous
+"it doesn&#x27;t look good but it&#x27;s good	ça paye pas de min
 it works for me	ça roule ma poule
 maybe	ça se trouve
 it shows that	ça se voit que
 gimme a minute	ça sera pas long (canada)
 Does it ring a bell?	ça te dit quelque chose?
 good timing	ça tombe bien
-"it&#x27;s their charm"	c’est leur kiff
-according to	"d&#x27;après"
-at heart	"dans l&#x27;âme."
+"it&#x27;s their charm	c’est leur kif
+according to	d&#x27;après
+at heart	dans l&#x27;âme.
 in denial	dans le déni
-more connected to the organization	"davantage branché sur l&#x27;organisation"
+more connected to the organization	davantage branché sur l&#x27;organisation
 basic	de base
 initially	de base/à la base
-on the other hand	"de l&#x27;autre côté"
+on the other hand	de l&#x27;autre côté
 as well as	de même que
 From nowhere	de nulle part
 totally!	de ouf
@@ -548,7 +548,7 @@ waste	déchet
 to shred	déchiqueter
 to tear	déchirer
 to rant	déclamer
-declare his love to someone	"déclarer sa flamme a quelqu&#x27;un"
+declare his love to someone	déclarer sa flamme a quelqu&#x27;un
 to trigger	déclencher
 to take off	décoller
 to unwind	décompresser
@@ -650,11 +650,11 @@ to carry out	effectuer
 performed	effectué
 to brush against	effleurer
 to frighten	effrayer
-she ended up learning english	"ella a fini par apprendre l&#x27;anglais"
+she ended up learning english	ella a fini par apprendre l&#x27;anglais
 She really fell in love with the dress	Elle a vraiment eu un coup de coeur pour la robe
 She bad	Elle est bad
 she fugly	elle est cheum/éclaté
-"she&#x27;s taken"	elle est maquée
+"she&#x27;s taken	elle est maqué
 to wrap (packaging) / to french kiss	emballer
 to hire	embaucher
 iconic	emblématique
@@ -725,13 +725,13 @@ to hinder	entraver
 in the meantime	entre-temps
 to undertake	entreprendre
 to maintain	entretenir
-job interview	"entretien d&#x27;embauche"
+job interview	entretien d&#x27;embauche
 to glimpse	entrevoir
 to invade	envahir
 to envelop	envelopper
 towards	envers
 About two	environ deux
-to consider the future	"envisager l&#x27;avenir"
+to consider the future	envisager l&#x27;avenir
 exhausted	epuisé
 to wonder	errer
 wrong	erroné
@@ -785,7 +785,7 @@ move (emotionally)	émouvoir
 enunciate/state	énoncer
 thick	épais
 blossoming	épanoui
-to save money	"épargner de l&#x27;argent"
+to save money	épargner de l&#x27;argent
 to spell	épeler
 mop up	éponger
 appalling	épouvantable
@@ -814,11 +814,11 @@ to be addicted	être accro
 to be seated	être attablé
 to be on the verge of doing something	être à deux doigts de faire quelque chose
 to be all in/to go hard	être à fond
-to be safe	"être à l&#x27;abri"
-to be spacing out	"être à l&#x27;ouest"
+to be safe	être à l&#x27;abri
+to be spacing out	être à l&#x27;ouest
 to be boring	être barbant
 to be fake	être bidon
-to be in love with someone	"être bleu de quelqu&#x27;un"
+to be in love with someone	être bleu de quelqu&#x27;un
 to be nuts	être cinglé
 to be in cahoots	être de mèche
 to be resourceful	être débrouillard
@@ -859,7 +859,7 @@ to take a nap/sleep	faire dodo
 to blackmail	faire du chantage
 to hitchhike	faire du stop
 to be careful	faire gaffe
-to woo someone	"faire la cour à quelqu&#x27;un"
+to woo someone	faire la cour à quelqu&#x27;un
 to party	faire la fête
 to sleep in	faire la grasse matinée
 to sulk, to be upset	faire la gueule
@@ -872,7 +872,7 @@ to grow fruits	faire pousser des fruits
 to lobby	faire pression
 to demonstrate	faire preuve
 to pretend to	faire semblant de
-"to take it&#x27;s toll"	faire son oeuvres
+"to take it&#x27;s toll	faire son oeuvre
 to drop	faire tomber
 make a wish	faire un voeux
 to take a break	faire une pause
@@ -880,7 +880,7 @@ Get tested	Fais toi dépister
 let me see	fais voir
 do me a handjob	Fais-moi une branlette
 do not	fallait pas
-host family	"famille d&#x27;accueil"
+host family	famille d&#x27;accueil
 to stuff	farcir
 burden	fardeau
 wacky	farfelue
@@ -923,7 +923,7 @@ to drill	forer
 formal	formel
 to rummage	fouiller
 to poke around	fouiner
-he sprained his ankle	"il s&#x27;est foulé la cheville"
+he sprained his ankle	il s&#x27;est foulé la cheville
 deceit	fourberie
 to provide	fournir
 to stuff	fourrer
@@ -996,7 +996,7 @@ hasty	hâtif/hative
 weekly	hebdomadaire
 to bump	heurter
 to harbor	héberger
-to host someone	"héberger quelqu&#x27;un"
+to host someone	héberger quelqu&#x27;un
 to inherit	hériter
 to hoist	hisser
 to nod your head	hocher la tête
@@ -1013,28 +1013,28 @@ lgbqt neutral pronoun	iel
 dog (yiaach)	iench(yiaach)
 he has a sick ride	il a une caisse de malade
 it's like that	il en est ainsi
-he is lacking money	"il est en galère d&#x27;argent"
+he is lacking money	il est en galère d&#x27;argent
 it is derived	il est issu
 once upon a time	il était une fois
-"it&#x27;s chilly"	il fait frais
+"it&#x27;s chilly	il fait frai
 it rains alot	il flotte beaucoup
-"he&#x27;s relou"	il force lui
-he swindled me	"il m&#x27;a carotté"
+"he&#x27;s relou	il force lu
+he swindled me	il m&#x27;a carotté
 I need to leave (its beyond my control)	Il me faut partir
-nobody is here	"il n&#x27;y a pas un chat"
+nobody is here	il n&#x27;y a pas un chat
 He rarely talks about his job	Il ne parle guère de son travail
-"it&#x27;s about that"	"il s&#x27;agit de ça"
-what happened	"il s&#x27;est passé quoi"
-he hooked up with marion	"il s&#x27;est tapé marion"
+"it&#x27;s about that	"il s&#x27;agit de ça
+what happened	il s&#x27;est passé quoi
+he hooked up with marion	il s&#x27;est tapé marion
 he made fun of her	il se foutait de sa gueule
 it is possible that	il se peut que
 It would be better	il vaut mieux
 there is something fishy	il y a anguille sous roche
 there are good days and bad days	il y a des jours avec et des jours sans
-"There is something for everyone&#x27;s taste"	il y en a pour tous les goûts
+"There is something for everyone&#x27;s taste	il y en a pour tous les goût
 there are a lot of criteria that come into account	il y’a pleins de critère qui rentre en compte
 to illustrate	illustrer
-they got me	"ils m&#x27;ont eu"
+they got me	ils m&#x27;ont eu
 They say that	Ils paraient que
 to immerse	immerger
 filth	immondice
@@ -1076,42 +1076,42 @@ to invert	inverser
 to invest	investir
 to isolate	isoler
 itinerary	itinéraire
-I barely understood	"j&#x27;ai compris à peine"
-i crossed the line	"j&#x27;ai dépassé les bornes"
-I have trouble understanding	"j&#x27;ai du mal à comprendre/j&#x27;ai de la misère à comprendre (canada)"
-I heard that..	"j&#x27;ai entendu dire que.."
-I was caught in the act	"j&#x27;ai ete pris en flagrant délit"
-I was raised in Berlin	"j&#x27;ai été élevé à Berlin"
-I almost..	"J&#x27;ai failli + inf"
-I almost got scammed	"J&#x27;ai failli me faire avoir"
-I almost got caught	"J&#x27;ai failli me faire gauler"
-its so hot/I really liked it	"j&#x27;ai grave chaud/je l&#x27;ai grave aimé"
-I dont feel like it	"j&#x27;ai la flemme"
-I bit off more than I can chew	"j&#x27;ai les yeux plus gros que le ventre"
-I screwed up	"j&#x27;ai merdé"
-I worked a good amount	"j&#x27;ai pas mal bossé"
-I have quite alot of work	"j&#x27;ai pas mal de boulot"
+I barely understood	j&#x27;ai compris à peine
+i crossed the line	j&#x27;ai dépassé les bornes
+I have trouble understanding	j&#x27;ai du mal à comprendre/j&#x27;ai de la misère à comprendre (canada)
+I heard that..	j&#x27;ai entendu dire que..
+I was caught in the act	j&#x27;ai ete pris en flagrant délit
+I was raised in Berlin	j&#x27;ai été élevé à Berlin
+I almost..	J&#x27;ai failli + inf
+I almost got scammed	J&#x27;ai failli me faire avoir
+I almost got caught	J&#x27;ai failli me faire gauler
+its so hot/I really liked it	j&#x27;ai grave chaud/je l&#x27;ai grave aimé
+I dont feel like it	j&#x27;ai la flemme
+I bit off more than I can chew	j&#x27;ai les yeux plus gros que le ventre
+I screwed up	j&#x27;ai merdé
+I worked a good amount	j&#x27;ai pas mal bossé
+I have quite alot of work	j&#x27;ai pas mal de boulot
 <div>The front of this card is blank.<br><a href='https://anki.tenderapp.com/kb/card-appearance/the-front-of-this-card-is-blank'>More information</a></div>	<div>The front of this card is blank.<br><a href='https://anki.tenderapp.com/kb/card-appearance/the-front-of-this-card-is-blank'>More information</a></div>
-I have a ton of work	"j&#x27;ai un max de boulot"
-"I&#x27;ll be right back"	"j&#x27;arrive"
-I am fed up with everything	"j&#x27;en ai marre de tout"
-"I&#x27;m fed up"	"j&#x27;en ai marre/j&#x27;suis tané (canada)"
-"I&#x27;m fed up"	"j&#x27;en ai ras le bol"
-I hope you liked it	"j&#x27;espère que ça vous a plus"
-I was SO tired	"j&#x27;étais au bout de ma vie"
-I was in flirty mode	"j&#x27;étais en mode gros drageur"
-I was in party mode	"j&#x27;étais en mode soirée"
-"I can&#x27;t beleive it!"	"j&#x27;hallucine!"
+I have a ton of work	j&#x27;ai un max de boulot
+"I&#x27;ll be right back	"j&#x27;arrive
+I am fed up with everything	j&#x27;en ai marre de tout
+"I&#x27;m fed up	"j&#x27;en ai marre/j&#x27;suis tané (canada)
+"I&#x27;m fed up	"j&#x27;en ai ras le bol
+I hope you liked it	j&#x27;espère que ça vous a plus
+I was SO tired	j&#x27;étais au bout de ma vie
+I was in flirty mode	j&#x27;étais en mode gros drageur
+I was in party mode	j&#x27;étais en mode soirée
+"I can&#x27;t beleive it!	"j&#x27;hallucine!
 formerly	jadis
-"I&#x27;m afraid I disagree"	"je crains d&#x27;être en desaccord"
-"fuck it, I don&#x27;t have the answer)"	je donne ma langue au chat
-"I&#x27;d better try"	"je ferais mieux d&#x27;essayer"
-"I&#x27;m freaking out"	je flippe à mort
+"I&#x27;m afraid I disagree	"je crains d&#x27;être en desaccord
+"fuck it, I don&#x27;t have the answer)	je donne ma langue au cha
+"I&#x27;d better try	"je ferais mieux d&#x27;essayer
+"I&#x27;m freaking out	je flippe à mor
 I got a bad feeling	je le sens mal
-"I&#x27;m off"	"je m&#x27;arrache"
-"I&#x27;ll take care of it"	"je m&#x27;en charge"
-I would gladly do without	"je m&#x27;en passerai volontiers"
-im running the cash register	"je m&#x27;occupe de la caisse"
+"I&#x27;m off	"je m&#x27;arrache
+"I&#x27;ll take care of it	"je m&#x27;en charge
+I would gladly do without	je m&#x27;en passerai volontiers
+im running the cash register	je m&#x27;occupe de la caisse
 I had a good laugh	je me suis bien marré
 I apologized	Je me suis excusé
 I screwed up	je me suis gouré
@@ -1119,88 +1119,88 @@ I was interested in	je me suis intéressé
 I got carried away	je me suis laissé emporter
 I started to cry	je me suis mis à pleurer
 I went to	je me suis rendu a
-I did not take into account	"je n&#x27;ai pas tenu compte"
+I did not take into account	je n&#x27;ai pas tenu compte
 Can I close your tab?	je peux vous encaisser?
-"i&#x27;ll take over"	je prends le relais
-"I&#x27;m quite tall"	je suis assez grande
+"i&#x27;ll take over	je prends le relai
+"I&#x27;m quite tall	je suis assez grand
 I am in contact with him	je suis au contact de lui
 I am retired	je suis à la retrait
-"I&#x27;m good at video games"	je suis calé en jeux vidéos
-"I&#x27;m happy to be here"	"je suis content d&#x27;être ici/j&#x27;capote d&#x27;être icitte (canada)"
-"I&#x27;m standing"	je suis debout
+"I&#x27;m good at video games	je suis calé en jeux vidéo
+"I&#x27;m happy to be here	"je suis content d&#x27;être ici/j&#x27;capote d&#x27;être icitte (canada)
+"I&#x27;m standing	je suis debou
 I am motivated	je suis déterre
-"I&#x27;m motivated"	je suis déterre
-"I&#x27;m pissed"	je suis en a assez
-"I&#x27;m on my way"	je suis en chemin/route
+"I&#x27;m motivated	je suis déterr
+"I&#x27;m pissed	je suis en a asse
+"I&#x27;m on my way	je suis en chemin/rout
 I am inclined to talk with you	je suis enclin à parler avec toi
 I am wasted	je suis foncedé
 I am uneducated	je suis inculte
-"I&#x27;m worried"	Je suis inquiet
+"I&#x27;m worried	Je suis inquie
 I am clumsy	je suis maladroit
-"I&#x27;m sorry"	je suis navré
-"I&#x27;m up for anything"	je suis partant pour tout
+"I&#x27;m sorry	je suis navr
+"I&#x27;m up for anything	je suis partant pour tou
 I am retired	je suis retraité
 I am tired	je suis rincé
 i am drunk	je suis soûl
-"I&#x27;m sauced"	je suis torché
+"I&#x27;m sauced	je suis torch
 I am so down	je suis trop chaud
-I got you involved in this	"je t&#x27;ai mêlée á ça"
-fuck you	"je t&#x27;emmerde"
-I can not hear you	"je t&#x27;entends pas"
+I got you involved in this	je t&#x27;ai mêlée á ça
+fuck you	je t&#x27;emmerde
+I can not hear you	je t&#x27;entends pas
 I give you my word	je te donne ma parole
-"i&#x27;m putting you in the deep end"	je te mets au pied du mur
-"it&#x27;s on me"	je te paie la traite (canada)
-to take a look at	"jeter un coup d&#x27;oeil"
+"i&#x27;m putting you in the deep end	je te mets au pied du mu
+"it&#x27;s on me	je te paie la traite (canada
+to take a look at	jeter un coup d&#x27;oeil
 to take a look	jeter un oeil
 board games	jeux de société
 next question	joker
 to juggle	jongler
-to get someone angry	"jouer avec les pieds de quelqu&#x27;un"
+to get someone angry	jouer avec les pieds de quelqu&#x27;un
 to cum	jouir
 public holiday	jour férié
 youth	jouvence
 Jewish	juif
 twins	jumeaux
 I said/did a weird thing	J’ai bugué
-"I&#x27;m in love with you"	J’ai craqué pour toi
+"I&#x27;m in love with you	J’ai craqué pour to
 I’ve passed my exams very easily	J’ai réussi mes examens les doigts dans le nez
 stop	khlass
-the allocation	"l&#x27;affectation"
-garlic	"l&#x27;ail"
-the ease	"l&#x27;aisance"
-the armpit	"l&#x27;aisselle"
-the elder	"l&#x27;aîné"
-the social progress	"l&#x27;andamento"
-appetizer	"l&#x27;apéritif = l&#x27;apéro"
-The appearance is deceptive	"L&#x27;apparence est trompeuse"
-the bus stop	"l&#x27;arrêt de bus"
-the rear	"l&#x27;arrière"
-the rear	"l&#x27;arrière"
-crafts	"l&#x27;artisanat"
-the seasoning	"l&#x27;assaisonnement"
-partner	"l&#x27;associé"
-insurance	"l&#x27;assurance"
-dawn	"l&#x27;aube"
-warm water	"l&#x27;eau tiède"
-the enclosure	"l&#x27;enclos"
-hope	"l&#x27;espoir"
-gasoline	"l&#x27;essence"
-growth	"l&#x27;essor"
-the growth	"l&#x27;essor"
-the gap	"l&#x27;écart"
-gap	"l&#x27;écart"
-deadline	"l&#x27;échéance"
-the touchscreen	"l&#x27;écran tactile"
-the badge	"l&#x27;écusson"
-praise	"l&#x27;éloge"
-the sponge	"l&#x27;éponge"
-the extent	"l&#x27;étendue"
-the bishop	"l&#x27;évêque"
-the intruder	"l&#x27;intrus"
-goose	"l&#x27;oie"
-The shadow	"l&#x27;ombre"
-the speaker	"l&#x27;orateur"
-pride	"l&#x27;orgueil"
+the allocation	l&#x27;affectation
+garlic	l&#x27;ail
+the ease	l&#x27;aisance
+the armpit	l&#x27;aisselle
+the elder	l&#x27;aîné
+the social progress	l&#x27;andamento
+appetizer	l&#x27;apéritif = l&#x27;apéro
+The appearance is deceptive	L&#x27;apparence est trompeuse
+the bus stop	l&#x27;arrêt de bus
+the rear	l&#x27;arrière
+the rear	l&#x27;arrière
+crafts	l&#x27;artisanat
+the seasoning	l&#x27;assaisonnement
+partner	l&#x27;associé
+insurance	l&#x27;assurance
+dawn	l&#x27;aube
+warm water	l&#x27;eau tiède
+the enclosure	l&#x27;enclos
+hope	l&#x27;espoir
+gasoline	l&#x27;essence
+growth	l&#x27;essor
+the growth	l&#x27;essor
+the gap	l&#x27;écart
+gap	l&#x27;écart
+deadline	l&#x27;échéance
+the touchscreen	l&#x27;écran tactile
+the badge	l&#x27;écusson
+praise	l&#x27;éloge
+the sponge	l&#x27;éponge
+the extent	l&#x27;étendue
+the bishop	l&#x27;évêque
+the intruder	l&#x27;intrus
+goose	l&#x27;oie
+The shadow	l&#x27;ombre
+the speaker	l&#x27;orateur
+pride	l&#x27;orgueil
 swimming	la baignade
 weed	la beu
 bike	la bécane
@@ -1298,7 +1298,7 @@ bacon	lardons
 to bore	lasser
 to weary	lasser
 nom de famille	last name
-forget about it	"lâche l&#x27;affaire"
+forget about it	lâche l&#x27;affaire
 to let go	lâcher
 to let go/cut loose (have fun)	lâcher prise/lâcher son fou (canada)
 the cattle	le bétail
@@ -1331,8 +1331,8 @@ the farmer	le fermier
 feast	le festin
 le bordel (mess)	le foutoir
 cum	le foutre
-the shipping costs	"le frais d&#x27;envois"
-money	"le fric, le pognon, le blé, l&#x27;oseille, les sous, le flouze, la maille"
+the shipping costs	le frais d&#x27;envois
+money	le fric, le pognon, le blé, l&#x27;oseille, les sous, le flouze, la maille
 the thrill	le frisson
 funeral	le funérailles
 lip gloss	le gloss
@@ -1465,7 +1465,7 @@ the blinds	les stores
 trade unions	les syndicats
 6 pack	les tablettes de chocolat
 Tasks	les tâches
-spider webs	"les toiles d&#x27;araignée"
+spider webs	les toiles d&#x27;araignée
 widows	les veuves
 the turns	les virages
 Sunrise	lever du soleil
@@ -1513,7 +1513,7 @@ morning	matin=mat(only with hours)
 weeds	mauvaise herbes
 to chew	mâcher
 to threaten	menacer
-thanks for listening to me	"merci de m&#x27;avoir écouter"
+thanks for listening to me	merci de m&#x27;avoir écouter
 wonderful	merveilleux
 my hobbies	mes loisirs
 gentlemen	messieurs
@@ -1567,18 +1567,18 @@ average/way	moyen
 average	moyenne
 mute	muet
 to multiply	multiplier
-enclosure wall	"mur d&#x27;enceinte"
+enclosure wall	mur d&#x27;enceinte
 ripe	mûr
 to mature	mûrir
 tarantula	mygale
-do not be afraid	"n&#x27;ayez crainte"
-Nevertheless	"N&#x27;empêche"
-any	"n&#x27;importe quel/quelle"
+do not be afraid	n&#x27;ayez crainte
+Nevertheless	N&#x27;empêche
+any	n&#x27;importe quel/quelle
 dwarf	nain
 naive	naïf
 etc.	nanani nanana
 to no be an exception	ne pas échapper a la règle
-"don&#x27;t worry"	"ne t&#x27;en fais pas"
+"don&#x27;t worry	"ne t&#x27;en fais pas
 clearly	nettement
 Nevertheless (old word)	néanmoins
 to require	nécessiter
@@ -1609,14 +1609,14 @@ heinous	odieux
 Oh nice one!	oh beau gosse!/ BG!
 to omit	omettre
 it looks like	on dirait que
-"we&#x27;re up for it"	on est partants
-"we&#x27;re even"	on est quitte
-someone told me that	"on m&#x27;a dit que"
+"we&#x27;re up for it	on est partant
+"we&#x27;re even	on est quitt
+someone told me that	on m&#x27;a dit que
 we turn up	on remonte
-"we don&#x27;t care"	"on s&#x27;en fiche"
+"we don&#x27;t care	"on s&#x27;en fiche
 It feels like being	on se croirait
 we enjoy cooking	on se fait plaisir à cuisiner
-"we&#x27;re dipping"	"on se tire d&#x27;ici/on sacre notre camp (canada)"
+"we&#x27;re dipping	"on se tire d&#x27;ici/on sacre notre camp (canada)
 we are going to visit some spots	on va visiter quelques points
 creamy	onctueux
 timely	opportun
@@ -1624,8 +1624,8 @@ gold	or
 garbage	ordure
 native	originaire
 orphanage	orphelinat
-"Yo, what&#x27;s going on"	Ouesh, kafas
-"Yes, but for the most part it&#x27;s still very revealing"	"Oui , mais pour la plupart c&#x27;est quand même révélateur de beaucoup"
+"Yo, what&#x27;s going on	Ouesh, kafa
+"Yes, but for the most part it&#x27;s still very revealing	"Oui , mais pour la plupart c&#x27;est quand même révélateur de beaucoup
 besides	outre
 outgoing	ouvert
 handiwork	ouvrage
@@ -1654,7 +1654,7 @@ everywhere else	partout ailleurs
 to reach	parvenir à
 to achieve its goals	parvenir à ses fins
 no wonder	pas étonnant
-not just any toilet	"pas n&#x27;importe quelles toilettes"
+not just any toilet	pas n&#x27;importe quelles toilettes
 Not so much	Pas tant que
 horrible (slang)	pas terrible
 to pass by really quickly	passer en coup de vent
@@ -1687,7 +1687,7 @@ journey	périple
 to perish	périr
 a joint	pétard
 to fart	péter
-"to loose one&#x27;s shit (crazy)"	péter les plombs
+"to loose one&#x27;s shit (crazy)	péter les plomb
 to go crazy	péter les plombs
 to mold	pétrir
 to fish	pêcher
@@ -1706,7 +1706,7 @@ pitiful	pitoyable
 picturesque	pittoresque
 the ceiling	le plafond
 to plead	plaider
-to please someone	"plaire à quelqu&#x27;un"
+to please someone	plaire à quelqu&#x27;un
 sequence shot	plan séquence
 to glide	planer
 to stash	planquer
@@ -1730,15 +1730,15 @@ deck	pont
 to lodge a complaint	porter plainte
 to yield results	porter ses fruits
 to lay	poser
-cowgirl	"position d&#x27;Andromaque"
+cowgirl	position d&#x27;Andromaque
 to possess	posséder
 to apply	postuler
 vegetable garden	potager
-"to divert someone&#x27;s attention"	poudre de perlimpinpin
+"to divert someone&#x27;s attention	poudre de perlimpinpi
 henhouse	poulailler
 baby	poupée
 for granted	pour acquis
-for the time being	"pour l&#x27;instant"
+for the time being	pour l&#x27;instant
 for the millionth time	pour la millionième fois
 in my opinion	pour ma part
 so that I can	pour que je puisse
@@ -1793,8 +1793,8 @@ to publish	publier
 childish	puéril
 to draw (figuratively)	puiser
 to punish	punir
-"what&#x27;s the matter?"	"qu&#x27;est-ce qu&#x27;il ya?"
-what are you doing? (vulgar)	"qu&#x27;est-ce que tu fous"
+"what&#x27;s the matter?	"qu&#x27;est-ce qu&#x27;il ya?
+what are you doing? (vulgar)	qu&#x27;est-ce que tu fous
 to lockdown	quadriller
 when Pigs Fly	quand les poules auront des dents
 when all of a sudden	quand tout à coup
@@ -1946,55 +1946,55 @@ to roll/drive	rouler
 to french kiss	rouler un patin/rouler une pelle/galocher
 road	routière
 to ruin	ruiner
-to refrain from	"s&#x27;abstenir de"
-to mate	"s&#x27;accoupler"
-to hang on	"s&#x27;accrocher"
-to go at fiercely	"s&#x27;acharner a"
-to complete	"s&#x27;achever"
-to devote oneself to	"s&#x27;adonner à"
-to get worked up	"s&#x27;affoler"
-to team up with	"s&#x27;allier à"
-realize	"s&#x27;apercevoir"
-to get ready to	"s&#x27;apprêter à"
-to approach	"s&#x27;approcher"
-to linger	"s&#x27;attarder"
-to expect	"s&#x27;attendre à"
-empower yourself with thought	"s&#x27;autonomiser par la pensée"
-to turn out to be	"s&#x27;avérer"
-to warm up	"s&#x27;echauffer"
-to collapse	"s&#x27;effondrer"
-to strive to	"s&#x27;efforcer de"
-to get away from	"s&#x27;eloigner de"
-to get carried away	"s&#x27;emballer"
-to get into physical contact	"s&#x27;embrouiller"
-to seize	"s&#x27;emparer"
-to prevent	"s&#x27;empêcher"
-to eat like shit	"s&#x27;empiffrer"
-to scurry	"s&#x27;empresser"
-to go away	"s&#x27;en aller"
-to not care	"s&#x27;en branler"
-to take care of	"s&#x27;en occuper"
-to fall asleep	"s&#x27;endormir"
-to run away	"s&#x27;enfuir"
-to get drunk	"s&#x27;enivrer"
-to have fun/I had fun	"s&#x27;enjailler/je me suis enjaillé"
-to pride oneself	"s&#x27;enorgueillir"
-to jam	"s&#x27;enrayer"
-to ensue	"s&#x27;ensuivre"
-to help each other	"s&#x27;entraider"
-to converse	"s&#x27;entretenir"
-to fly away	"s&#x27;envoler"
-to dry up	"s&#x27;essuyer"
-to stretch	"s&#x27;etirer"
-to have a blast	"s&#x27;éclater"
-to flow	"s&#x27;écouler"
-to exclaim/cry out	"s&#x27;écrier"
-to collapse	"s&#x27;écrouler"
-to go astray	"s&#x27;égarer"
-to blossom	"s&#x27;épanouir"
-to immerse yourself	"s&#x27;imprégner de"
-to set in	"s&#x27;incruster"
-to take care of	"s&#x27;occuper de"
+to refrain from	s&#x27;abstenir de
+to mate	s&#x27;accoupler
+to hang on	s&#x27;accrocher
+to go at fiercely	s&#x27;acharner a
+to complete	s&#x27;achever
+to devote oneself to	s&#x27;adonner à
+to get worked up	s&#x27;affoler
+to team up with	s&#x27;allier à
+realize	s&#x27;apercevoir
+to get ready to	s&#x27;apprêter à
+to approach	s&#x27;approcher
+to linger	s&#x27;attarder
+to expect	s&#x27;attendre à
+empower yourself with thought	s&#x27;autonomiser par la pensée
+to turn out to be	s&#x27;avérer
+to warm up	s&#x27;echauffer
+to collapse	s&#x27;effondrer
+to strive to	s&#x27;efforcer de
+to get away from	s&#x27;eloigner de
+to get carried away	s&#x27;emballer
+to get into physical contact	s&#x27;embrouiller
+to seize	s&#x27;emparer
+to prevent	s&#x27;empêcher
+to eat like shit	s&#x27;empiffrer
+to scurry	s&#x27;empresser
+to go away	s&#x27;en aller
+to not care	s&#x27;en branler
+to take care of	s&#x27;en occuper
+to fall asleep	s&#x27;endormir
+to run away	s&#x27;enfuir
+to get drunk	s&#x27;enivrer
+to have fun/I had fun	s&#x27;enjailler/je me suis enjaillé
+to pride oneself	s&#x27;enorgueillir
+to jam	s&#x27;enrayer
+to ensue	s&#x27;ensuivre
+to help each other	s&#x27;entraider
+to converse	s&#x27;entretenir
+to fly away	s&#x27;envoler
+to dry up	s&#x27;essuyer
+to stretch	s&#x27;etirer
+to have a blast	s&#x27;éclater
+to flow	s&#x27;écouler
+to exclaim/cry out	s&#x27;écrier
+to collapse	s&#x27;écrouler
+to go astray	s&#x27;égarer
+to blossom	s&#x27;épanouir
+to immerse yourself	s&#x27;imprégner de
+to set in	s&#x27;incruster
+to take care of	s&#x27;occuper de
 biscuits	sablés
 to sabotage	saboter
 to sacrifice	sacrifier
@@ -2048,7 +2048,7 @@ to throw around the ball	se faire des passes au ballon
 to impersonate	se faire passer pour
 to set yourself	se fixer
 to trample	se fouler
-"to stuff one&#x27;s face"	se goinfrer
+"to stuff one&#x27;s face	se goinfre
 to show off	se la péter
 to get into	se lancer
 to laugh	se marrer
@@ -2120,7 +2120,7 @@ to tend to	soigner
 carefully	soigneusement
 to request/to apply for/to ask for	solliciter
 dark	sombre
-to sink into the abyss	"sombrer dans l&#x27;abîme"
+to sink into the abyss	sombrer dans l&#x27;abîme
 summary	sommaire
 sleeping pill	somnifère
 to probe	sonder
@@ -2180,13 +2180,13 @@ survivor	survivant
 to stimulate	susciter
 to suspend	suspendre
 To get laid	S’envoyer en l’air
-have you sobered up a bit?	"t&#x27;as dessoulé un peu?"
-"you don&#x27;t look like you get it"	"T&#x27;as pas l&#x27;air d&#x27;avoir pigé"
-got a phone number?	"t&#x27;as pas un 06?"
-"you&#x27;re handsome but you don&#x27;t look well"	"t&#x27;as une belle gueule mais t&#x27;as une sale tête"
-You have a memory of a goldfish	"T&#x27;as une mémoire de poisson rouge"
-"you&#x27;re lookin fresh"	"t&#x27;es archi frais/fraîche"
-"you&#x27;re fucking crazy"	"t&#x27;es dingue/t&#x27;es malade"
+have you sobered up a bit?	t&#x27;as dessoulé un peu?
+"you don&#x27;t look like you get it	"T&#x27;as pas l&#x27;air d&#x27;avoir pigé
+got a phone number?	t&#x27;as pas un 06?
+"you&#x27;re handsome but you don&#x27;t look well	"t&#x27;as une belle gueule mais t&#x27;as une sale tête
+You have a memory of a goldfish	T&#x27;as une mémoire de poisson rouge
+"you&#x27;re lookin fresh	"t&#x27;es archi frais/fraîche
+"you&#x27;re fucking crazy	"t&#x27;es dingue/t&#x27;es malade
 smoking	tabagisme
 to beat up	tabasser
 stool	tabouret
@@ -2229,7 +2229,7 @@ reckless	téméraire
 to testify	témoigner
 darkness	ténèbres
 stubborn	têtu
-"l&#x27;étude de la matière"	the study of matter
+"l&#x27;étude de la matière	the study of matte
 theoretical	théorique
 tuna	thon
 small	tipeu
@@ -2240,7 +2240,7 @@ title holder	titulaire
 you know what i mean	toi-même tu sais
 to eye scornfully	toiser
 to get hooked	tomber accroc
-to settle (on something)	"tomber d&#x27;accord"
+to settle (on something)	tomber d&#x27;accord
 to break down	tomber en panne
 your will	ton gré
 your opinion	ton regard
@@ -2253,11 +2253,11 @@ beat around the bush	tourner autour du pot
 to beat around the bush	tourner autour du pot
 to roll	tournicoter
 suddenly	tout à coup
-first of all	"tout d&#x27;abord"
+first of all	tout d&#x27;abord
 after all	tout de même
 right now	tout de suite
 aloud	tout haut
-the relevance of	"tout l&#x27;intérêt de"
+the relevance of	tout l&#x27;intérêt de
 all kinds	toutes sortes
 to betray	trahir
 to milk	traire
@@ -2284,23 +2284,23 @@ to sit in state	trôner
 whats his name	trucmuche
 you got guts	tu as du cran
 you crossed the line	tu as franchi la limite
-"you&#x27;d better"	tu as intérêt à
-"you&#x27;re wrong"	tu as tort
-"you&#x27;re killing it"	tu dead ça
-"you&#x27;re sick (twisted)"	tu es malsain
+"you&#x27;d better	tu as intérêt 
+"you&#x27;re wrong	tu as tor
+"you&#x27;re killing it	tu dead ç
+"you&#x27;re sick (twisted)	tu es malsai
 are you non french origin?	tu es typé?
 you are ugly	tu es un thon
-you scared me	"tu m&#x27;as fait flipper"
-you owe me	"tu m&#x27;es redevable"
-are you making fun of me?	"tu m&#x27;niaises tu? (canada)"
+you scared me	tu m&#x27;as fait flipper
+you owe me	tu m&#x27;es redevable
+are you making fun of me?	tu m&#x27;niaises tu? (canada)
 you rat on me	tu me balances
 can you show me around paris?	tu me fais visiter paris?
-"You&#x27;re driving me crazy (f/m)"	Tu me rends folle/fou
-"you&#x27;re not a genius in bed"	"Tu n&#x27;es pas un génie au pieu."
+"You&#x27;re driving me crazy (f/m)	Tu me rends folle/fo
+"you&#x27;re not a genius in bed	"Tu n&#x27;es pas un génie au pieu.
 you get it?	tu piges?
-"you&#x27;re doing great"	"tu t&#x27;en sors bien"
-You got head over heels	"Tu t&#x27;es emballé"
-You are digressing	"Tu t&#x27;éloigne"
+"you&#x27;re doing great	"tu t&#x27;en sors bien
+You got head over heels	Tu t&#x27;es emballé
+You are digressing	Tu t&#x27;éloigne
 you figure it out (really vulgar)	tu te démerdes
 are you kidding me?	tu te fou de ma gueule?
 tile	tuile
@@ -2543,7 +2543,7 @@ a batch	un lot
 a wolf	un loup
 a rent	un loyer
 lube	Un lubrifiant
-"a thing, what&#x27;s his name"	un machin
+"a thing, what&#x27;s his name	un machi
 a swimsuit/soccer jersey	un maillot de bain/un maillot de foot
 discomfort	un malaise
 a misunderstanding	un malentendu
@@ -2727,7 +2727,7 @@ a treasure	un trésor
 a triumph	un triomphe
 a disorder	un trouble
 a herd	un troupeau
-a love killer (kills the mood)	"un tue l&#x27;amour"
+a love killer (kills the mood)	un tue l&#x27;amour
 a user	un usager
 a vessel	un vaisseau
 a belly	un ventre
@@ -2765,7 +2765,7 @@ an antenna	une antenne
 ownership	une appartenance
 an app	une appli
 an approval	une approbation
-"a scam/it&#x27;s a rip off"	"une arnaque/c&#x27;est de l&#x27;arnaque"
+"a scam/it&#x27;s a rip off	"une arnaque/c&#x27;est de l&#x27;arnaque
 an arrest	une arrestation
 a plate	une assiette
 a seat/basis	une assise
@@ -2780,7 +2780,7 @@ a box/company	une boite
 a terminal	une borne
 a breath	une bouffée
 a ball	une boule
-a scholarship	"une bourse d&#x27;étude"
+a scholarship	une bourse d&#x27;étude
 a breach	une brèche
 a bubble	une bulle
 testicles	Une burne, une coucougnette, les bijoux de famille
@@ -2788,7 +2788,7 @@ a cabin	une cabine
 a ski mask	une cagoule
 cash register/car/box	une caisse
 a jug	une carafe
-complimentary water	"une carafe d&#x27;eau"
+complimentary water	une carafe d&#x27;eau
 RV	une caravane/une roulotte (canada)
 a hut	une case
 a whore	une catin
@@ -2797,7 +2797,7 @@ a flesh	une chair
 a heat	une chaleur
 a hunt	une chasse
 a chronicle	une chronique
-a waterfall	"une chute d&#x27;eau"
+a waterfall	une chute d&#x27;eau
 a target	une cible
 a citizenship	une citoyenneté
 a slap	une claque
@@ -2925,7 +2925,7 @@ a bookstore	une librairie
 a unicorn	une licorne
 a delivery	une livraison
 a town hall	une mairie
-"master&#x27;s degree"	une maîtrise
+"master&#x27;s degree	une maîtris
 a sickness	une maladie
 merchandise	une marchandise
 a tide	une marée
@@ -2947,7 +2947,7 @@ a chick	une nana
 a shuttle	une navette
 a novelty	une nouveauté
 one sleepless night	une nuit blanche
-a work of art	"une oeuvre d&#x27;art"
+a work of art	une oeuvre d&#x27;art
 a shadow	une ombre
 a wave	une onde
 a prescription	une ordonnance
@@ -2967,7 +2967,7 @@ a pinch of chili pepper	une pincée de poudre de piment
 a track	une piste
 a complaint	une plainte
 a plate	une plaque
-a sewer plate	"une plaque d&#x27;égouts"
+a sewer plate	une plaque d&#x27;égouts
 a feather	une plume
 a frying pan	une poêle
 a handful	une poignée
@@ -3058,7 +3058,7 @@ a route	une voie
 a view	une vue
 to wear out	user
 go fuck yourself	va chier
-go away	"va t&#x27;en"
+go away	va t&#x27;en
 to defeat	vaincre
 valid	valable
 to be worth it	valoir le coup
@@ -3091,8 +3091,8 @@ even	voire
 vicinity	voisinage
 willingly	volontiers
 to vow	vouer
-"You&#x27;re pissing me off"	"vous m&#x27;emmerdez"
-"you weren&#x27;t up to the task"	"vous n&#x27;avez pas été à la hauteur"
+"You&#x27;re pissing me off	"vous m&#x27;emmerdez
+"you weren&#x27;t up to the task	"vous n&#x27;avez pas été à la hauteur
 thug	voyou
 in all likelihood	vraisemblablement
 since/because	vu que
@@ -3106,9 +3106,9 @@ to work	œuvrer
 to be around 50 years old	avoir la cinquantaine
 with regards to children..	en ce qui concerne les enfants..
 lazy	paresseux
-one night stand	"un coup d&#x27;un soir"
+one night stand	un coup d&#x27;un soir
 the washing	la lessive
-accommodation certificate	"attestation d&#x27;hébergement"
+accommodation certificate	attestation d&#x27;hébergement
 to fill out	remplir
 a sled	un traîneau
 uncle	tonton
@@ -3117,46 +3117,46 @@ to skyrocket in price	flamber
 obviously	évidemment
 to compensate (a lack of something)	pallier
 settlers	les colons
-"it&#x27;s raining (quebec)"	il mouille
+"it&#x27;s raining (quebec)	il mouill
 to talk (quebec)	jaser
 to have a conversation (quebec)	piquer une jasette
 outdated	demodé
 tow truck (France)/convenience store (Canada)	un dépanneur
-the grocery store	"l&#x27;épicerie"
+the grocery store	l&#x27;épicerie
 hardware store	quincaillerie
-"we&#x27;re out of stock"	on est en rupture
-to register in a course	"s&#x27;incrire à un cours"
+"we&#x27;re out of stock	on est en ruptur
+to register in a course	s&#x27;incrire à un cours
 no matter where I am..	peu importe où je suis..
 that being said..	ceci étant dit..
-as far back as I can remember	"d&#x27;aussi loin que je me souvienne"
+as far back as I can remember	d&#x27;aussi loin que je me souvienne
 la fête (verlan)	la teuf
-building	"l&#x27;immeuble"
+building	l&#x27;immeuble
 tissue	le mouchoir
 foosball	le babyfoot
-I have no doubts	"je n&#x27;en doute point"
+I have no doubts	je n&#x27;en doute point
 to resume viewing	reprendre le visionnage
 the bread section	le rayon pain
 to win the elections	remporter les elections
 model	le mannequin
 to practice	faire ses gammes
 to baffle	dérouter
-"to be on one&#x27;s guard"	veiller au grain
+"to be on one&#x27;s guard	veiller au grai
 in the evening	à la veillée
 the bare minimum	le stricte nécessaire
 cheers!	cul sec
-to register/enroll	"s&#x27;inscrire"
-enough is enough	"trop c&#x27;est trop"
+to register/enroll	s&#x27;inscrire
+enough is enough	trop c&#x27;est trop
 a tongue twister	un virelangue
 to stand in line	faire la queue
 a bouncer	un videur
 to be sore	avoir des courbatures
-"I&#x27;ve been scammed"	je me suis fait arnaquer
+"I&#x27;ve been scammed	je me suis fait arnaque
 to have a snack	casser la croûte
 a shopkeeper	un commerçant
 henceforth	désormais
 to snack	grignoter
 the docks	les quais
-"to lose one&#x27;s mind"	perdre la boule
+"to lose one&#x27;s mind	perdre la boul
 stay with me! (don't give up)	lâche pas
 trickery	le baratin
 a blowgun	une&nbsp;sarbacane
