@@ -3165,4 +3165,3 @@ a quiz	un&nbsp;contrôle
 to repeat a class	<b>r</b>edoubler une classe
 pillow	l'oreiller
 brother (verlan)	le reuf
-<div>rare / medium rare / medium / medium well / well done</div>	<div>saignant&nbsp;/ à&nbsp;point&nbsp;/ entre à point et bien cuit&nbsp;/ bien cuit / très bien cuit</div>
