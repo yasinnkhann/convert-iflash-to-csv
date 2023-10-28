@@ -52,12 +52,12 @@ def add_new_cards(anki_deck_file_path, google_translate_csv_or_excel_file_path):
     anki_csv_or_excel_data = get_google_translate_csv_or_excel_data(
         google_translate_csv_or_excel_file_path
     )
+
     for anki_csv_or_excel_words in anki_csv_or_excel_data:
         if anki_csv_or_excel_words not in anki_deck_data:
-            print(anki_csv_or_excel_words)
             cards_to_write.append(anki_csv_or_excel_words)
-    print(len(cards_to_write))
-    # save_to_csv(cards_to_write, "newly-added-french-cards.csv")
+
+    save_to_csv(cards_to_write, "newly-added-french-cards.csv")
 
 
 def convert_iflash_txt_to_csv(input_file_path: str, output_file_path: str):
